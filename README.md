@@ -1,12 +1,12 @@
-# 🛰️ AI Drone Tech for Environmental Waste Detection
+# AI Drone Tech for Environmental Waste Detection
 
 **Second Life NGO | Technical Overview**
 
-Welcome to the official repository for the **AI & Drone Department** of **Second Life NGO** — a mission-driven initiative harnessing drone technology and computer vision to identify, classify, and combat environmental waste across the Mediterranean, Balkans, and North Africa.
+Welcome to the official repository for the **AI & Drone Department** of **Second Life NGO**, a mission-driven initiative harnessing drone technology and computer vision to identify, classify, and combat environmental waste across the Mediterranean, Balkans, and North Africa.
 
 ---
 
-## 🌍 Project Mission
+## Project Mission
 
 We aim to build an end-to-end, AI-driven system that:
 
@@ -16,7 +16,7 @@ We aim to build an end-to-end, AI-driven system that:
 
 ---
 
-## 🔧 Core Components
+## Core Components
 
 - **Data Collection:** Drone images from targeted zones  
 - **Labeling Pipeline:** Manual and semi-automated image annotation using tools like Roboflow or CVAT  
@@ -27,7 +27,7 @@ We aim to build an end-to-end, AI-driven system that:
 
 ---
 
-## 👥 Who Is This For?
+## Who Is This For?
 
 This repo is maintained by the AI Drone Department at Second Life and intended for:
 
@@ -38,7 +38,7 @@ This repo is maintained by the AI Drone Department at Second Life and intended f
 
 ---
 
-## 🚧 Current Work in Progress
+## Current Work in Progress
 
 - [ ] Image preprocessing & augmentation pipeline  
 - [ ] Custom annotation schema for marine & urban waste  
@@ -48,7 +48,7 @@ This repo is maintained by the AI Drone Department at Second Life and intended f
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome collaborators! Please check the [`CONTRIBUTING.md`](./CONTRIBUTING.md) file and open issues for:
 
@@ -59,6 +59,6 @@ We welcome collaborators! Please check the [`CONTRIBUTING.md`](./CONTRIBUTING.md
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source under the **MIT License** and part of Second Life’s humanitarian tech initiative.
